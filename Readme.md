@@ -1,6 +1,7 @@
 # Text Classification Natural Language Processing
 
 In one project, I have classifed a given dataset of messages whether its spam or not spam. I have used LinearSVC model and got an accuracy rate of 99%. The user also have option to check messages manually. In other project, I have classified movie reviews and got an accuracy rate of 85%.
+
 Note: Type exit to close the program
 
 **Output (Spam and Ham Classification):**
