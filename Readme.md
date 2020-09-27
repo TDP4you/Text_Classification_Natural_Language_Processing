@@ -10,3 +10,4 @@ Note: Type exit to close the program
 
 **Output (Movie Review Classificaton):**
 ![alt_text](https://github.com/TDP4you/Text_Classification_Natural_Language_Processing/blob/master/movie_review_classification_screenshot.jpg)
+.
